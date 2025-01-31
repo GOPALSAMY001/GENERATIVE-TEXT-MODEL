@@ -1,5 +1,17 @@
 # Generative Text Model
 
+Company: CODETECH IT SOLUTION
+
+Name: GOPALSAMY S
+
+INTERN ID: CT12JHY
+
+Domain: ARTIFICIAL INTELLIAGENCE
+
+Duration: 8 Weeks
+
+Mentor: NEELA SANTOSH
+
 This repository contains code and resources for a generative text model. The model is designed to generate human-like text based on the input it receives.
 
 ## Features
